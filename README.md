@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ensarce
 - 👀 I’m interested in especially Web programming and mobile programming 
-- 🌱 I’m currently woeking on Angular, Java and C# 
+- 🌱 I’m currently working on Angular, Java and C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
