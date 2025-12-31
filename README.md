@@ -1,44 +1,30 @@
-```csharp
-public class Ensar : SoftwareDeveloper
-{
-    public string Name => "Ensar";
-    public string Username => "ensarce";
+👋 Hi, I’m Ensar
 
-    public string Role => "Full-Stack Developer";
+💻 Software Developer focused on Web & Application Development
 
-    public string[] Interests =>
-        new[]
-        {
-            "Web Development",
-            "Mobile Applications",
-            "Clean Architecture",
-            "RESTful APIs"
-        };
+🔧 Tech Stack
 
-    public string[] TechStack =>
-        new[]
-        {
-            "Angular",
-            "Java",
-            "C#",
-            ".NET",
-            "SQL",
-            "Docker"
-        };
+Angular
 
-    public void CurrentStatus()
-    {
-        Console.WriteLine("🌱 Currently developing web applications with Angular & Java.");
-        Console.WriteLine("🧠 Focusing on clean code and scalable architectures.");
-        Console.WriteLine("💞️ Open to collaboration on Angular, .NET and Java projects.");
-    }
+Java
 
-    public string Contact()
-    {
-        return "📩 GitHub: github.com/ensarce | LinkedIn: [Your LinkedIn]";
-    }
-}
+C# / .NET
 
-```
+REST APIs, SQL, Docker
 
+🌱 Currently
 
+Building scalable web applications
+
+Improving clean code & software architecture skills
+
+🤝 Open to Collaborate
+
+Angular, .NET and Java-based projects
+
+📫 Contact
+
+GitHub: ensarce
+
+LinkedIn:ensarkaplance
+Email:ensarkaplan.ce@gmail.com
