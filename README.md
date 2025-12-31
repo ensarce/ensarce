@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @ensarce
-- 👀 I’m interested in especially Web programming and mobile programming 
-- 🌱 I’m currently working on Angular, Java and C# 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```csharp
+public class Ensar : SoftwareDeveloper
+{
+    public string Name => "Ensar";
+    public string Username => "ensarce";
 
-<!---
-ensarce/ensarce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    public string Role => "Full-Stack Developer";
+
+    public string[] Interests =>
+        new[]
+        {
+            "Web Development",
+            "Mobile Applications",
+            "Clean Architecture",
+            "RESTful APIs"
+        };
+
+    public string[] TechStack =>
+        new[]
+        {
+            "Angular",
+            "Java",
+            "C#",
+            ".NET",
+            "SQL",
+            "Docker"
+        };
+
+    public void CurrentStatus()
+    {
+        Console.WriteLine("🌱 Currently developing web applications with Angular & Java.");
+        Console.WriteLine("🧠 Focusing on clean code and scalable architectures.");
+        Console.WriteLine("💞️ Open to collaboration on Angular, .NET and Java projects.");
+    }
+
+    public string Contact()
+    {
+        return "📩 GitHub: github.com/ensarce | LinkedIn: [Your LinkedIn]";
+    }
+}
+
+```
+
+
