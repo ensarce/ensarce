@@ -27,4 +27,5 @@ Angular, .NET and Java-based projects
 GitHub: ensarce
 
 LinkedIn:ensarkaplance
+
 Email:ensarkaplan.ce@gmail.com
